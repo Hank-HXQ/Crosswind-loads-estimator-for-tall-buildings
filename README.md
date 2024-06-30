@@ -11,7 +11,7 @@ The tool is compiled within MATLAB R2022b using MATLAB Compiler. The MATLAB Runt
 # Input variables
 B\D\H are the building width\depth\height, respectively.
 
-f0\ζ\ρ are the fundamental frequency\damping ratio\bulk density.
+f0\ζ\ρ are the fundamental frequency\damping ratio\bulk density, respectively.
 
 w0 is the basic wind pressure (10 minutes-averaged at 10 meters-height) from Chinese load code GB 50009-2012.
 
