@@ -7,7 +7,7 @@ Specifically, this tool is applicable to rectangular tall buildings with a side 
 The tool is compiled within MATLAB R2022b using MATLAB Compiler. The MATLAB Runtime (MCR) does not require a MATLAB license and can be used to run the MATLAB compiled program on computers which do not have MATLAB installed. 
 1. for_redistribution folder: contains the files used to install the application and MATLAB Runtime.
 2. for_redistribution_files_only folder: contains the files needed for redistribution of the application. These files can be distributed to the computers of users who have MATLAB Runtime.
-3. 
+   
 # About the input variables in the user interface
 B\D\H are the building width\depth\height, respectively.
 
