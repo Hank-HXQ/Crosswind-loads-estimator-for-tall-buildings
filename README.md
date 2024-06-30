@@ -8,7 +8,7 @@ The tool is compiled within MATLAB R2022b using MATLAB Compiler. The MATLAB Runt
 1. for_redistribution folder: contains the files used to install the application and MATLAB Runtime.
 2. for_redistribution_files_only folder: contains the files needed for redistribution of the application. These files can be distributed to the computers of users who have MATLAB Runtime.
    
-# About the input variables in the user interface
+# About the input variables
 B\D\H are the building width\depth\height, respectively.
 
 f0\ζ\ρ are the fundamental frequency\damping ratio\bulk density.
