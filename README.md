@@ -3,12 +3,12 @@ We developed a tool for rapid and accurate evaluation of crosswind loads on tall
 This tool is an ANN-based model driven by a comprehensive aerodynamic database of tall buildings. The database is established by high-fidelity datasets from both wind tunnel tests and large-eddy simulations (LES), covering extensive building dimensions in three typical boundary layer wind fields.
 Specifically, this tool is applicable to rectangular tall buildings with a side ratio (D/B) from 0.5 to 2 and a height from 150 m to 250 m.
 
-# About the installation
+# Installation
 The tool is compiled within MATLAB R2022b using MATLAB Compiler. The MATLAB Runtime (MCR) does not require a MATLAB license and can be used to run the MATLAB compiled program on computers which do not have MATLAB installed. 
 1. for_redistribution folder: contains the files used to install the application and MATLAB Runtime.
 2. for_redistribution_files_only folder: contains the files needed for redistribution of the application. These files can be distributed to the computers of users who have MATLAB Runtime.
    
-# About the input variables
+# Input variables
 B\D\H are the building width\depth\height, respectively.
 
 f0\ζ\ρ are the fundamental frequency\damping ratio\bulk density.
