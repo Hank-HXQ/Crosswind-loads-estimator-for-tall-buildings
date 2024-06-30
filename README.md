@@ -13,6 +13,7 @@ w0 is the basic wind pressure (10 minutes-averaged at 10 meters-height) from Chi
 ![image](https://github.com/Hank-HXQ/Crosswind-loads-estimator-for-tall-buildings/assets/88885046/fb53ab1a-6e1f-453f-91ac-a148e943ac3e)
 # Wind profiles information
 Terrain categories BL1\BL2\BL3 refer to three typical boundary layer wind fields. The mean velocity and turbulence intensity profiles are provided below.
+
 ![BCD剖面](https://github.com/Hank-HXQ/Crosswind-loads-estimator-for-tall-buildings/assets/88885046/323817b2-7d27-4a7a-b40b-d8fbf80f6604)
 
 
