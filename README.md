@@ -1,1 +1,2 @@
 # Crosswind-loads-estimator-for-tall-buildings
+This tool is an ANN-based model driven by a comprehensive aerodynamic database of tall buildings. The database is established by high-fidelity datasets from both wind tunnel tests and large-eddy simulations (LES), covering extensive building dimensions in three typical boundary layer wind fields. Specifically, this tool is applicable to rectangular tall buildings with side ratio (D/B) from 0.5 to 2 and the height from 150 m to 250 m.
