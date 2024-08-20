@@ -21,4 +21,4 @@ Terrain categories BL1\BL2\BL3 refer to three typical boundary layer wind fields
 
 ![BCD剖面](https://github.com/Hank-HXQ/Crosswind-loads-estimator-for-tall-buildings/assets/88885046/323817b2-7d27-4a7a-b40b-d8fbf80f6604)
 
-
+# See the details in the published journal paper via [https://www.sciencedirect.com/science/article/pii/S0141029624013300]
